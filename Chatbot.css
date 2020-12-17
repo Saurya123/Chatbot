@@ -1,3 +1,5 @@
+@media all and(max-width: 500px)
+{
 body
 {
 	background-image:url("back.jpg");
@@ -40,4 +42,5 @@ p.solid
 	border-style:solid;
 	border-width:2px;
 	border-color:green;
+}
 }
